@@ -163,24 +163,6 @@ We welcome contributions! Here's how you can help:
 4. **📤 Push** to the branch (`git push origin feature/amazing-feature`)
 5. **🔄 Open** a Pull Request
 
----
-
-## 📬 Stay Connected
-
-### 🎁 **FREE Data Science eBook!**
-
-Get our **150+ Essential Data Science Lessons** eBook when you subscribe to our newsletter. Stay updated with cutting-edge tutorials, insights, and exclusive resources.
-
-<div align="center">
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
-**[📧 Subscribe Now - Get Your FREE eBook!](https://join.dailydoseofds.com)**
-
-</div>
-
----
-
 ## 📋 Troubleshooting
 
 ### Common Issues
