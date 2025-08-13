@@ -182,22 +182,6 @@ uv sync
 - Check your internet connection and Beam service status
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **LlamaIndex** team for the excellent RAG framework
-- **Milvus** community for the high-performance vector database
-- **Groq** for revolutionary inference speeds
-- **Beam** for seamless serverless deployment
-
----
-
 <div align="center">
 
 **⭐ Star this repo if you found it helpful!**
