@@ -136,52 +136,7 @@ fastest-rag/
 ├── 🔧 requirements.txt    # Python dependencies
 ├── 🔐 .env               # Environment variables
 └── 📖 README.md          # This file
-```
 
----
-
-## 🛠️ Customization
-
-### Adding New Data Sources
-Extend the RAG pipeline by modifying the data ingestion logic in `app.py`
-
-### Model Configuration
-Switch between different Groq models by updating the LLM configuration
-
-### Vector Store Settings
-Optimize Milvus parameters for your specific use case and data size
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. **🍴 Fork** the repository
-2. **🌟 Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **💾 Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **📤 Push** to the branch (`git push origin feature/amazing-feature`)
-5. **🔄 Open** a Pull Request
-
-## 📋 Troubleshooting
-
-### Common Issues
-
-**🐛 Import Errors**
-```bash
-# Ensure all dependencies are installed
-uv sync
-```
-
-**🔑 API Key Issues**
-- Verify your `.env` file is in the project root
-- Check that environment variables are properly loaded
-
-**☁️ Deployment Issues**
-- Confirm Beam token is configured correctly
-- Check your internet connection and Beam service status
-
----
 <div align="center">
 
 **⭐ Star this repo if you found it helpful!**
