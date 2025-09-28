@@ -116,16 +116,6 @@ streamlit run app.py
 
 Your app will be available at `http://localhost:8501`
 
----
-
-## 🏎️ Performance Features
-
-- **⚡ Sub-15ms Retrieval**: Binary quantization for lightning-fast vector search
-- **🚀 Blazing Inference**: Groq's optimized inference engine
-- **📈 Scalable Architecture**: Beam's serverless infrastructure
-- **🔄 Real-time Updates**: Streamlit's reactive interface
-
----
 
 ## 📁 Project Structure
 
